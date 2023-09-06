@@ -22,8 +22,8 @@ This repository contains code volunteered from leading competitors in the [Senio
 Place |Team or User | Public Score | Private Score | Summary of Model
 --- | --- | --- | --- | ---
 1 | Daniel_FG | 0.1293 | 0.1346 | I selected 7 subsets of features by random/optimization and I trained a bunch of Layer 1 models with them (ExtraTrees, RandomForest, XGBoost, Neural Networks and Linear Regression).  In Layer 2, I selected again 4 subset of meta-features (L1 models) by random/optimization and I trained 7 L2 models. The final submission is a weighted average of theses predictions.
-2 | venat | 0.1343 | 0.1378 | We decided to give the stacking technique a try. This ensemble learning technique combines the predictions of diverse individual models and leverages their strengths. Stacking 10 individual models – including linear regressions, Naive Bayes classifiers, random forests, extra-trees and XGBoost models – turned out to be very performant.
-3 | Dataiku | 0.1292 | 0.1381 | We then trained dozens of models using various algorithms such as logistic regression, random forest, and extreme gradient boosting tree. Our final submission is an ensemble model of these base models.
+2 | dataiku | 0.1292 | 0.1381 | We decided to give the stacking technique a try. This ensemble learning technique combines the predictions of diverse individual models and leverages their strengths. Stacking 10 individual models – including linear regressions, Naive Bayes classifiers, random forests, extra-trees and XGBoost models – turned out to be very performant.
+3 | n2 | 0.1339 | 0.1397 | We then trained dozens of models using various algorithms such as logistic regression, random forest, and extreme gradient boosting tree. Our final submission is an ensemble model of these base models.
 
 
 **Winner's Interview: ["Meet the winners of the safe aging challenge"](https://drivendata.co/blog/sphere-winners/)**
