@@ -3,9 +3,10 @@
 # Entrant Background and Submission Overview
 
 ### Mini-bio
-He is a data analytics project lead in banking and insurance including customer churn analysis, customer segmentation, and risk analytics.
 
-Her work involves processing data and building machine learning algorithms. Besides work, her interest is doing modeling competitions to find new challenges and to learn from the best.
+Tam T. Nguyen is a data analytics project lead in banking and insurance including customer churn analysis, customer segmentation, and risk analytics.
+
+Quy Nguyen is a data scientist at Crayon Data. Her work involves processing data and building machine learning algorithms. Besides work, her interest is doing modeling competitions to find new challenges and to learn from the best.
 
 ### High Level Summary of Submission
 We carried out intensive feature engineering on sensory data. We found that the historical signal is important to recognize the current activity therefore we generated many first and second-order lag features. We then trained dozens of models using various algorithms such as logistic regression, random forest, and extreme gradient boosting tree. Our final submission is an ensemble model of these base models.
